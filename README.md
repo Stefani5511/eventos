@@ -23,3 +23,8 @@ Sistema full stack para cadastro e gerenciamento de eventos climáticos, permiti
 
 - Login de usuários cadastrados.
 - Cadastro, consulta, edição e exclusão de eventos climáticos.
+
+## Screenshots
+
+![Screenshot](assets/print1.png)
+![Screenshot](assets/print2.png)
